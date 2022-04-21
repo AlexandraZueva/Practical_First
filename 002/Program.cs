@@ -3,7 +3,7 @@
 
 int a = 22, b = 3, c = 9;
 
-if (a > b || a > c)
+if (a > b && a > c)
 {
     Console.WriteLine("max=" + a);
 }
