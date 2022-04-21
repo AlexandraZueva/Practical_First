@@ -5,7 +5,7 @@
 
 int N = 8;
 int i = -N;
-while 
+while (i>=-N && i<=N)
 {
     if (i % 1 == 0)
     {
