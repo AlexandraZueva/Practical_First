@@ -9,6 +9,6 @@ while (i <= N)
     {
         Console.WriteLine(i);
     }
-
+    
     i++;
 }
